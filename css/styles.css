@@ -1,0 +1,193 @@
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700);
+
+.logo-container {
+  margin-left: 5.5% !important;
+}
+
+.logo {
+  width: 80px;
+  height: 63px;
+  margin-bottom: 0px !important;
+}
+
+.logo-text {
+  font-family: 'Satisfy';
+  font-size: 31.5px;
+  font weight:100;
+  color: #ff827b;
+}
+
+.nav-row {
+  padding-top: 15px;
+}
+
+.nav {
+  font-size: 1.23em;
+  border:none !important;
+  padding-top: 20px !important;
+}
+
+.nav li a {
+  color: #85c5ff !important;
+  border: none !important;
+  text-decoration: none;
+}
+
+.nav li a: hover {
+  background-color: #ff827b !important;
+}
+
+.jumbotron, .container-fluid {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  background-color: transparent;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.hero-img {
+  width: 100%;
+  height: 60vh;
+  background: url('../img/hero.jpg');
+  /*background-repeat: no-repeat;*/
+  background-position:center;
+  background-size: cover;
+  background-repeat:
+}
+
+.hero-text {
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 25.5px !important;
+  font-family: 'Lato', sans-serif;
+  font-weight: 0;
+  padding-top: 4.4%;
+}
+
+/* ====== Products ====== */
+
+.featured-text {
+  text-transform: uppercase;
+}
+
+.thumbnail {
+  background-color: #f1f1f1;
+  padding: 12px !important;
+  margin-bottom: 0px !important;
+}
+
+.thumbail .caption {
+  padding-bottom: 1px !important;
+}
+
+/*------------ Services -----------*/
+
+.adopt-text a {
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 1.5em;
+}
+
+.adopt-text p {
+  text-align: center;
+  line-height: 1.5em;
+}
+
+.upper-text {
+  text-transform: uppercase;
+  line-height: 1.5em;
+}
+
+/* ========= Footer Styles =============== */
+
+.footer {
+  background-color: #231f20;
+  min-height: 120px;
+  margin-top: 20px;
+  color: #BFC0C1;
+}
+
+.footer-logo {
+  width: 110px;
+}
+
+.footer-cols {
+  border-right: 1px solid #333333;
+}
+
+.footer-cols address {
+  padding-left: 20px;
+}
+
+.footer-cols address a {
+  color: #FFFFFF;
+}
+
+.col-md-3 address:hover, .col-md-3 address a:hover {
+  color:#ff827b;
+  text-decoration: none;
+}
+
+.col-md-3 address a:hover {
+  color:#ff827b;
+  text-decoration: none;
+}
+
+.inner-footer {
+  padding-top: 20px;
+}
+
+i {
+  padding-right: 6px;
+}
+
+.socialLink {
+  text-decoration: none !important;
+  color:#BFC0C1;
+}
+
+.socialLink:hover {
+  color:#ff827b;
+}
+
+.footer .text-center {
+  color:#4C4C4C;
+}
+
+/*============= Contact Us Page ================ */
+
+.contactRow {
+  margin-top: 15px !important;
+  padding: 0px 15px !important;
+}
+
+.contact-doctor {
+  background-color: transparent !important;
+  border: none !important;
+}
+
+.thumbnailDoc {
+  padding:0px !important;
+}
+
+.thumbnailDoc.right-caption > img {
+    float: left;
+    margin-right: 25px;
+}
+
+.thumbnailDoc.right-caption {
+    float: left;
+}
+
+.thumbnailDoc.right-caption > .captionDoc {
+    padding: 4px;
+}
+
+table {
+  margin-top: 1.65em !important;
+}
+
+th, td {
+  font-size: 0.8em
+}
